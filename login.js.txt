@@ -1,4 +1,1 @@
-function login(password)
-{
-return "hello world"
-}
+console.log("hello world")
