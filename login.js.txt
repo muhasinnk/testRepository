@@ -1,0 +1,4 @@
+function login(password)
+{
+return "hello world"
+}
